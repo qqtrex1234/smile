@@ -7,7 +7,9 @@
   Version: 1.1
   */
 
-
+  .sizer {
+    width: 300px;
+  }
 
   body {
     background: #fff;
